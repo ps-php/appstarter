@@ -1,0 +1,16 @@
+{
+    "name": "psphp/appstarter",
+    "description": "Ps-PHP App Starter",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "irsyadulibad",
+            "email": "ahmadirsyadulibad7@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "psphp/psphp": "^1"
+    }
+}
